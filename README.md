@@ -2,7 +2,7 @@
 
 Just code tests. Use it as you want.
 
-Copyright (c) 2011-2017 GitHub Inc.
+Under MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
