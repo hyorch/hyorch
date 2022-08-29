@@ -1,4 +1,4 @@
 #Jorge Pastor Repository
 
-Just code test. Use it as you want.
+Just code tests. Use it as you want.
 
